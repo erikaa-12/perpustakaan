@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace perpustakaan
 {
-    public partial class menu_utama : Form
+    public partial class laporan : Form
     {
-        public menu_utama()
+        public laporan()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void menu_utama_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

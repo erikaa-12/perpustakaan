@@ -10,19 +10,20 @@ using System.Windows.Forms;
 
 namespace perpustakaan
 {
-    public partial class menu_utama : Form
+    public partial class status : Form
     {
-        public menu_utama()
+        public status()
         {
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
-
+            
+            
         }
 
-        private void menu_utama_Load(object sender, EventArgs e)
+        private void groupBox2_Enter(object sender, EventArgs e)
         {
 
         }
